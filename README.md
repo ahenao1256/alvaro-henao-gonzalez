@@ -53,8 +53,8 @@ Skilled in **QA automation, Agile methodologies, and AI integration**, passionat
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alvaro-henao-gonzalez&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-henao-gonzalez&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahenao1256&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahenao1256&layout=compact&theme=radical" />
 </div>
 
 ---
