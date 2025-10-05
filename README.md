@@ -50,43 +50,6 @@ Skilled in **QA automation, Agile methodologies, and AI integration**, passionat
 - Designed and executed **automated test cases**.  
 - Identified and documented bugs, contributing to higher app stability.  
 
----
-
-## 🌟 Featured Projects (Interactive Portfolio)
-
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-<!-- Riskks Card -->
-<div style="border-radius:15px; border:1px solid #ccc; padding:15px; width:300px; text-align:center; box-shadow:0px 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3>🔹 Riskks Platform</h3>
-  <a href="https://tu-demo-riskks.com"><img src="https://media.giphy.com/media/3o6Mbd0VmC1aVfkhHq/giphy.gif" width="260" /></a>
-  <p><strong>Tech Stack:</strong> ReactJS, FastAPI, PostgreSQL</p>
-  <p>Scalable healthcare management system with microservices, automated tests, and CI/CD.</p>
-  <a href="#">🔗 View Repo</a>
-</div>
-
-<!-- Nimbox Card -->
-<div style="border-radius:15px; border:1px solid #ccc; padding:15px; width:300px; text-align:center; box-shadow:0px 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3>🔹 Nimbox Dashboard</h3>
-  <a href="https://tu-demo-nimbox.com"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" /></a>
-  <p><strong>Tech Stack:</strong> ReactJS, Supabase</p>
-  <p>Interactive data visualization with secure authentication and dynamic dashboards.</p>
-  <a href="#">🔗 View Repo</a>
-</div>
-
-<!-- Veritran Card -->
-<div style="border-radius:15px; border:1px solid #ccc; padding:15px; width:300px; text-align:center; box-shadow:0px 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3>🔹 Veritran iOS App</h3>
-  <a href="https://tu-demo-veritran.com"><img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="260" /></a>
-  <p><strong>Tech Stack:</strong> SwiftUI</p>
-  <p>Mobile application with intuitive UI and automated test coverage.</p>
-  <a href="#">🔗 View Repo</a>
-</div>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
